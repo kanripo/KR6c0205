@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:43.105039
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 仁王護國般若波羅蜜經疏神寶記
 #+PROPERTY: CBETA_ID T33n1706
 #+PROPERTY: ID KR6c0205
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1706
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0205_T_000-0286a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0205_T_001-0286a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1706[cf.Nos.245,1705]¶
+No. 1706 [cf. Nos. 245, 1705]¶
 
-仁王護國般若經疏神寶記序
-:PROPERTIES:
-:head: 仁王護國般若經疏神寶記序
-:END:
-¶
+* 仁王護國般若經疏神寶記序¶
 ¶
 
 易於通經難於作記。欺佛也。易於作記難於¶
@@ -41,8 +37,7 @@ No.1706[cf.Nos.245,1705]¶
 紹定庚寅中元日　善月　　序¶
 ¶
 ¶
-
- 佛說仁王護國般若波羅蜜經疏¶
+佛說仁王護國般若波羅蜜經疏¶
 神寶記卷第一¶
 ¶
 

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:43.137606
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 仁王護國般若波羅蜜經疏神寶記
 #+PROPERTY: CBETA_ID T33n1706
 #+PROPERTY: ID KR6c0205
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1706
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0205_T_000-0286a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0205_T_002-0291b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 佛說仁王護國般若波羅蜜經疏¶
+佛說仁王護國般若波羅蜜經疏¶
 神寶記卷第二¶
 ¶
 四明沙門柏庭善月述¶
@@ -452,8 +451,7 @@
 出八部。以四王各領二眾為八。而諸經又以¶
 天龍等為八。其實皆護法眾也云云。坐九級¶
 座者。據疏只應改劫作級。謂層級也。今經本¶
-既已正自不須更改。況劫字未必訓級。雖略¶
-可也。然以今所集眾各若干數已不思議。況¶
+既已正自不須更改。況劫字未必訓級。雖略可也。然以今所集眾各若干數已不思議。況¶
 皆來集會各坐此座。而其會廣九百五十里。¶
 亦只約世諦說耳。若不思議豈直若干數量而¶
 已。如維摩丈室容三萬二千師子座。校此殆¶

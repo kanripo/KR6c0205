@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:43.137606
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 仁王護國般若波羅蜜經疏神寶記
 #+PROPERTY: CBETA_ID T33n1706
 #+PROPERTY: ID KR6c0205
@@ -12,7 +12,8 @@
 #+PROPERTY: JUAN 2
 ¶
 
- 佛說仁王護國般若波羅蜜經疏¶
+ 
+** 2佛說仁王護國般若波羅蜜經疏¶
 神寶記卷第二¶
 ¶
 四明沙門柏庭善月述¶
